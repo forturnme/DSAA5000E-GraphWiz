@@ -1,4 +1,4 @@
-# GraphWiz (Graph-Reasoning-LLM)
+# DSAA5000E-GraphWiz
 
 This repo contains the training code and demo of GraphWiz. The model has been published to Hugginface.
 
